@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 @program pySpammer.py
 @author Mason McDaniel
