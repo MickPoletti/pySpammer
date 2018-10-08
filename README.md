@@ -6,9 +6,9 @@ Build Progress and Goals:
 - [x] Customizable input
 - [x] Input from a file
 - [x] Infinite amount of spammable lines
-- [] Emoji support? Might have to check if this is even a problem...
-- [] Windows OS Support
-- [] Color Formatting and Program Interface
+- [ ] Emoji support? Might have to check if this is even a problem...
+- [ ] Windows OS Support
+- [ ] Color Formatting and Program Interface
 
 
 **I am not responsible for the use of and any damages caused by this program.**  
