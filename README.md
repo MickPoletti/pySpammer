@@ -9,6 +9,6 @@ Build Progress and Goals:
 - [ ] Emoji support? Might have to check if this is even a problem...
 - [ ] Windows OS Support
 - [ ] Color Formatting and Program Interface
-
+- [ ] Add exception handling
 
 **I am not responsible for the use of and any damages caused by this program.**  
